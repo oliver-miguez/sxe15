@@ -10,7 +10,7 @@ estudiantes y el nivel de sueño que tienen y cuanta cafeina necesitan
     """,
 
     'author': "Oliver Miguez Alonso",
-    'website': "https://www.olivermiguez.com",
+    'website': "https://xogosaqui.itch.io/",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/15.0/odoo/addons/base/data/ir_module_category_data.xml
