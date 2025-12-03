@@ -7,9 +7,9 @@
       <field name="model">estudiantes.estudiantes</field>
       <field name="arch" type="xml">
         <list>
-          <field name="name"/>
-          <field name="value"/>
-          <field name="value2"/>
+          <field name="alumno"/>
+          <field name="nivel_sueno"/>
+          <field name="bebida_recomendada"/>
         </list>
       </field>
     </record>
